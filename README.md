@@ -24,7 +24,7 @@ Screen 4               |  Screen 5                       | Screen 6
 
 Screen 7               |  Screen 8                       | Screen 9              
 :-------------------------:|:-------------------------:|:-------------------------:
-![](Screenshots/7.png)|![](Screenshots/8.png)|![](Screenshots/9.png)
+![](Screenshots/7.png)|![](Screenshots/2.png)|![](Screenshots/4.png)
 
 
 
